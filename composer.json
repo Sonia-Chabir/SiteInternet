@@ -2,7 +2,7 @@
     "name": "chabir/site-internet",
     "autoload": {
         "psr-4": {
-            "Chabir\\SiteInternet\\": "src/"
+            "App\\": "src/"
         }
     },
     "authors": [
