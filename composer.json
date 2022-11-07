@@ -1,0 +1,15 @@
+{
+    "name": "chabir/site-internet",
+    "autoload": {
+        "psr-4": {
+            "Chabir\\SiteInternet\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sonia Chabir",
+            "email": "chabirsonia@gmail.com"
+        }
+    ],
+    "require": {}
+}
